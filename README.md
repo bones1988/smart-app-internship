@@ -1,2 +1,2 @@
 # smart-app-intern
-repository for internatory in smart-app
+repository for internship in smart-app
