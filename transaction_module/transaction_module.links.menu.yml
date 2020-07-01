@@ -1,0 +1,14 @@
+
+# Transaction menu items definition
+entity.transaction.collection:
+  title: 'Transaction list'
+  route_name: entity.transaction.collection
+  description: 'List Transaction entities'
+  parent: system.admin_structure
+  weight: 100
+
+transaction.admin.structure.settings:
+  title: 'Transaction settings'
+  description: 'Configure Transaction entities'
+  route_name: transaction.settings
+  parent: system.admin_structure
