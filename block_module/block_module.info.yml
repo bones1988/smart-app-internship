@@ -1,0 +1,7 @@
+name: Owner details block
+description: Adds block for showing owner details
+package: Smart app
+core: 8.x
+type: module
+dependencies:
+  -block
